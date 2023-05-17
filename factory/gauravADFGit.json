@@ -1,0 +1,9 @@
+{
+	"name": "gauravADFGit",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "114c354f-aab9-4623-8703-3582b74acd70",
+		"tenantId": "6c91563c-f697-4147-a6f5-afc7f392122c"
+	}
+}
